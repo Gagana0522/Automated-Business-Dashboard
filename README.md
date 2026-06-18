@@ -1,3 +1,9 @@
+
+
+
+[SQL View .sql](https://github.com/user-attachments/files/29092453/SQL.View.sql)
+[executive_summary;.sql](https://github.com/user-attachments/files/29092447/executive_summary.sql)
+[clean_executive_summary.csv](https://github.com/user-attachments/files/29092440/clean_executive_summary.csv)
  E-Commerce Business Analytics Pipeline & Dashboard
 
 ##  Project Overview
