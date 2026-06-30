@@ -1,4 +1,4 @@
-![Dashboard Preview](dashboard_screenshot.png)
+[Dashboard Preview](dashboard_screenshot.png)
 [Download Dashboard (.pbix)](Business%20Intelligence%20Visualization.pbix)
 [SQL View .sql](https://github.com/user-attachments/files/29092453/SQL.View.sql)
 [executive_summary;.sql](https://github.com/user-attachments/files/29092447/executive_summary.sql)
